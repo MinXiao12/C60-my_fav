@@ -1,0 +1,27 @@
+<section id="gallery">
+        <h1 class="text-capitalize">Photo Gallery</h1>
+        <div class="row">
+            <img id="1" class="img img-resposive" src="anime_masked_girl1.jpg">
+            <br>
+            <img id="2" class="img img-resposive" src="anime_masked_girl2.jpg">
+            <br>
+            <img id="3" class="img img-resposive " src="anime_masked_girl3.jpg">
+            <br>
+            <img id="4" class="img img-resposive" src="anime_masked_girl4.jpg">
+            <br>
+            <img id="5" class="img img-resposive" src="anime_masked_girl5.jfif">
+            <br>
+            <img id="6" class="img img-resposive" src="anime_masked_girl6.jfif">
+            <br>
+            <img id="7" class="img img-resposive" src="anime_masked_girl7.jpg">
+            <br><br>
+        </div>
+        <div class="row">
+            <img id="8" class="img img-resposive" src="anime_masked_girl8.jfif">
+            <img id="9" class="img img-resposive" src="anime_masked_girl9.jfif">
+            <img id="10" class="img img-resposive" src="anime_masked.jfif">
+            <img id="11" class="img img-resposive" src="anime_masked_girl10.jfif">
+            <img id="12" class="img img-resposive" src="anime_masked_girl11.jfif">
+            <img id="13" class="img img-resposive" src="anime_masked_girl12.jpg">
+        </div>
+    </section>
